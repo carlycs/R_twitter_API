@@ -1,6 +1,9 @@
 #reference: 
 # R and Data Mining: Examples and Case Studies1 2
-# Yanchang Zhao
+# Editor: Hoofar Pourzand
+# hp@lotustech.io
+# http://www.lotustech.io
+# Original Author: Yanchang Zhao
 # yanchangzhao@gmail.com
 # http://www.RDataMining.com
 ###############################################
