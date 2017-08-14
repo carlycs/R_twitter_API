@@ -8,8 +8,9 @@ Package used:
 * ROAuth
 
 Now, might need App registration to make put requests.
-RplotDaveExample.png
-Rplot_fullDaveplot.png
+![data model graph](img/RplotDaveExample.png)
+![data model graph](img/Rplot_fullDaveplot.png)
+
 
 
 
